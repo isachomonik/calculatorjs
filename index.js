@@ -16,5 +16,5 @@ switch (operator) {
     console.log(num1 - num2);
     break;
   default:
-    console.log("Operação não concluida");
+    console.log("Operation not concluded");
 }
